@@ -5,13 +5,13 @@
 }
 
 .one, .two, .three {
-    width: 285px;
-    height: 400px;
+    width: 20%;
+    height: 40%;
 }
 
 .container {
-    width: 285px;
-    height: 400px;
+    width: 20%px;
+    height: 40%px;
     overflow: hidden;
 }
 
