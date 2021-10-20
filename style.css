@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.one {
+    width: 285px;
+    height: 400px;
+}
+
+.two {
+    width: 285px;
+    height: 400px;
+}
+
+.three {
+    width: 285px;
+    height: 400px;
+}
+
+.container {
+    width: 285px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.images {
+    display: flex;
+}
