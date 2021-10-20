@@ -12,4 +12,4 @@ function nextSlide() {
     }
 }
 
-setInterval(nextSlide, 1000);
+setInterval(nextSlide, 2000);
