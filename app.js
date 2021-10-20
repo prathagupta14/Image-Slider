@@ -5,7 +5,7 @@ function nextSlide() {
     sliderImages.style.transform = `translateX(${-285 * counter}px)`;
     console.log('hi');
     counter++;
-    sliderImages.style.transition = 'transform 1.5s ease-in-out';
+    sliderImages.style.transition = 'transform 0.5s ease-in-out';
 
     if(counter === 3){
         counter = 0;
