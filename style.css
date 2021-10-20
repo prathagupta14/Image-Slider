@@ -4,17 +4,7 @@
     box-sizing: border-box;
 }
 
-.one {
-    width: 285px;
-    height: 400px;
-}
-
-.two {
-    width: 285px;
-    height: 400px;
-}
-
-.three {
+.one, .two, .three {
     width: 285px;
     height: 400px;
 }
